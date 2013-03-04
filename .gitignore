@@ -1,0 +1,4 @@
+.build/
+Software-License-Boost_1_0-*.tar.gz
+Software-License-Boost_1_0-*/
+*.BAK
