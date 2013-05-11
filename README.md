@@ -4,7 +4,7 @@ Software::License::Boost\_1\_0 - Boost Software License, Version 1.0, August 17t
 
 # VERSION
 
-version v0.0.1
+version 0.000002
 
 # DESCRIPTION
 
